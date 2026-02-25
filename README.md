@@ -21,10 +21,10 @@ As part of my project analyzing 3,900+ customer transactions, I derived actionab
 
 Technical Skills Applied:
 
-Python (Data Cleaning & Preparation)
-SQL – PostgreSQL (Exploratory & Business Analysis)
-Feature Engineering
-Power BI (Dashboard Development & Visualization)
+• Python (Data Cleaning & Preparation)
+• SQL – PostgreSQL (Exploratory & Business Analysis)
+• Feature Engineering
+• Power BI (Dashboard Development & Visualization)
 
 Turning transactional data into measurable business value through analytics.
 
